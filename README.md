@@ -22,10 +22,3 @@ A ideia é criar um sistema que permita estruturar, classificar e evoluir decks 
 - (Possível) SQLite
 
 ---
-
-## 📦 Como rodar o projeto
-
-### 1️⃣ Clone o repositório
-
-```bash
-git clone https://github.com/RafaelJGoulart/codex_vault.git
