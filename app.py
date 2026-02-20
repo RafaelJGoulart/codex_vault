@@ -15,7 +15,7 @@ if __name__ == "__main__":
         "CodexVault",
         "frontend/pages/index.html",
         js_api=api,
-        frameless=True
+        #frameless=True
     )
     
     webview.start()
