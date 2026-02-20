@@ -26,3 +26,17 @@ Python Venv
 Venv/Scripts/activate
 
 pip freeze > requirements.txt
+
+########################################################
+Clonar repositório
+########################################################
+
+git config --global user.name "Seu Nome"
+git config --global user.email "Seu Email"
+
+git clone URL_DO_REPO
+cd codex_vault
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
