@@ -23,6 +23,8 @@ git push
 Python Venv
 ########################################################
 
+pip install -r requirements.txt
+
 Venv/Scripts/activate
 
 pip freeze > requirements.txt
