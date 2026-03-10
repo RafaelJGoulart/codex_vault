@@ -15,6 +15,10 @@ if __name__ == "__main__":
         "CodexVault",
         "frontend/pages/index.html",
         js_api=api,
+        width=900,
+        height=600,
+        resizable=True,   # permite redimensionar
+        min_size=(500, 400)  # tamanho mínimo
         #frameless=True
     )
     

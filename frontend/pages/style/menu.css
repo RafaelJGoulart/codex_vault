@@ -1,0 +1,25 @@
+.menu{
+    background-color: darkgray;
+    width: 33vw;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+}
+
+a{
+    padding:8px;
+    border: none;
+    background-color: rgb(79, 170, 226);
+    margin: 8px;
+    border-radius: 4px;
+    
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+    color: white;
+}
+
+a:hover{
+    background-color: rgb(184, 223, 248);
+}
