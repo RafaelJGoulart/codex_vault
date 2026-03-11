@@ -28,13 +28,16 @@
         <h2>Novo Deck</h2>
 
         <label>Nome do Deck</label>
-        <input type="text" id="deckNome" placeholder="Deck mais maneiro de todos">
+        <input type="text" id="deckName" placeholder="Deck mais maneiro de todos">
+
+        <label>Comandante</label>
+        <input id="deckCommander">
 
         <label>Lista de Cartas</label>
-        <textarea id="deckLista" placeholder="Digite suas cartas..."></textarea>
+        <textarea id="deckList" placeholder="Digite suas cartas..."></textarea>
 
         <div class="modal-buttons">
-            <button id="salvarDeck">Salvar</button>
+            <button onclick="salvarDeck()">Salvar</button>
             <button id="fecharModal">Cancelar</button>
         </div>
 

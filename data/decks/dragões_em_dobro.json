@@ -1,0 +1,338 @@
+{
+    "name": "Drag\u00f5es em Dobro",
+    "commander": "Miirym, Sentinel Wyrm",
+    "cards": [
+        {
+            "qty": 1,
+            "name": "Frontier Bivouac"
+        },
+        {
+            "qty": 1,
+            "name": "Steam Vents"
+        },
+        {
+            "qty": 1,
+            "name": "Sulfur Falls"
+        },
+        {
+            "qty": 1,
+            "name": "Breeding Pool"
+        },
+        {
+            "qty": 1,
+            "name": "Cinder Glade"
+        },
+        {
+            "qty": 1,
+            "name": "Crucible of the Spirit Dragon"
+        },
+        {
+            "qty": 7,
+            "name": "Forest"
+        },
+        {
+            "qty": 6,
+            "name": "Island"
+        },
+        {
+            "qty": 1,
+            "name": "Maelstrom of the Spirit Dragon"
+        },
+        {
+            "qty": 6,
+            "name": "Mountain"
+        },
+        {
+            "qty": 1,
+            "name": "Secluded Courtyard"
+        },
+        {
+            "qty": 1,
+            "name": "Rootbound Crag"
+        },
+        {
+            "qty": 1,
+            "name": "Hinterland Harbor"
+        },
+        {
+            "qty": 1,
+            "name": "Haven of the Spirit Dragon"
+        },
+        {
+            "qty": 1,
+            "name": "Stomping Ground"
+        },
+        {
+            "qty": 1,
+            "name": "Temple of the Dragon Queen"
+        },
+        {
+            "qty": 1,
+            "name": "Unclaimed Territory"
+        },
+        {
+            "qty": 1,
+            "name": "Command Tower"
+        },
+        {
+            "qty": 1,
+            "name": "Ketria Triome"
+        },
+        {
+            "qty": 1,
+            "name": "Sol Ring"
+        },
+        {
+            "qty": 1,
+            "name": "Birds of Paradise"
+        },
+        {
+            "qty": 1,
+            "name": "An Offer You Can't Refuse"
+        },
+        {
+            "qty": 1,
+            "name": "Worldly Tutor"
+        },
+        {
+            "qty": 1,
+            "name": "Farseek"
+        },
+        {
+            "qty": 1,
+            "name": "Counterspell"
+        },
+        {
+            "qty": 1,
+            "name": "Double Major"
+        },
+        {
+            "qty": 1,
+            "name": "Fanatic of Rhonas"
+        },
+        {
+            "qty": 1,
+            "name": "Heroic Intervention"
+        },
+        {
+            "qty": 1,
+            "name": "Negate"
+        },
+        {
+            "qty": 1,
+            "name": "Nature's Lore"
+        },
+        {
+            "qty": 1,
+            "name": "Dragonlord's Servant"
+        },
+        {
+            "qty": 1,
+            "name": "Arcane Signet"
+        },
+        {
+            "qty": 1,
+            "name": "Dragon Tempest"
+        },
+        {
+            "qty": 1,
+            "name": "Three Visits"
+        },
+        {
+            "qty": 1,
+            "name": "Kodama's Reach"
+        },
+        {
+            "qty": 1,
+            "name": "Temur Ascendancy"
+        },
+        {
+            "qty": 1,
+            "name": "Ghostly Flicker"
+        },
+        {
+            "qty": 1,
+            "name": "Herald's Horn"
+        },
+        {
+            "qty": 1,
+            "name": "Cultivate"
+        },
+        {
+            "qty": 1,
+            "name": "Urza's Incubator"
+        },
+        {
+            "qty": 1,
+            "name": "Kiora, Behemoth Beckoner"
+        },
+        {
+            "qty": 1,
+            "name": "Garruk's Uprising"
+        },
+        {
+            "qty": 1,
+            "name": "Genesis Wave"
+        },
+        {
+            "qty": 1,
+            "name": "Rhythm of the Wild"
+        },
+        {
+            "qty": 1,
+            "name": "Somberwald Sage"
+        },
+        {
+            "qty": 1,
+            "name": "Sarkhan, Soul Aflame"
+        },
+        {
+            "qty": 1,
+            "name": "Selvala, Heart of the Wilds"
+        },
+        {
+            "qty": 1,
+            "name": "Temur Battlecrier"
+        },
+        {
+            "qty": 1,
+            "name": "Sarkhan's Triumph"
+        },
+        {
+            "qty": 1,
+            "name": "Dragonspeaker Shaman"
+        },
+        {
+            "qty": 1,
+            "name": "Adrix and Nev, Twincasters"
+        },
+        {
+            "qty": 1,
+            "name": "Empowered Autogenerator"
+        },
+        {
+            "qty": 1,
+            "name": "Dragonborn Champion"
+        },
+        {
+            "qty": 1,
+            "name": "Crucible of Fire"
+        },
+        {
+            "qty": 1,
+            "name": "Spark Double"
+        },
+        {
+            "qty": 1,
+            "name": "Elvish Piper"
+        },
+        {
+            "qty": 1,
+            "name": "Encroaching Dragonstorm"
+        },
+        {
+            "qty": 1,
+            "name": "Guardian Project"
+        },
+        {
+            "qty": 1,
+            "name": "Skyshroud Claim"
+        },
+        {
+            "qty": 1,
+            "name": "Thassa, Deep-Dwelling"
+        },
+        {
+            "qty": 1,
+            "name": "Conjurer's Closet"
+        },
+        {
+            "qty": 1,
+            "name": "Kindred Discovery"
+        },
+        {
+            "qty": 1,
+            "name": "Goldspan Dragon"
+        },
+        {
+            "qty": 1,
+            "name": "Scourge of Valkas"
+        },
+        {
+            "qty": 1,
+            "name": "Ganax, Astral Hunter"
+        },
+        {
+            "qty": 1,
+            "name": "Lozhan, Dragons' Legacy"
+        },
+        {
+            "qty": 1,
+            "name": "Doubling Season"
+        },
+        {
+            "qty": 1,
+            "name": "Terror of the Peaks"
+        },
+        {
+            "qty": 1,
+            "name": "Thrakkus the Butcher"
+        },
+        {
+            "qty": 1,
+            "name": "Twinflame Tyrant"
+        },
+        {
+            "qty": 1,
+            "name": "Savage Ventmaw"
+        },
+        {
+            "qty": 1,
+            "name": "Hellkite Charger"
+        },
+        {
+            "qty": 1,
+            "name": "Dragon Broodmother"
+        },
+        {
+            "qty": 1,
+            "name": "Lathliss, Dragon Queen"
+        },
+        {
+            "qty": 1,
+            "name": "Niv-Mizzet, Parun"
+        },
+        {
+            "qty": 1,
+            "name": "Niv-Mizzet, Visionary"
+        },
+        {
+            "qty": 1,
+            "name": "Niv-Mizzet, the Firemind"
+        },
+        {
+            "qty": 1,
+            "name": "Atarka, World Render"
+        },
+        {
+            "qty": 1,
+            "name": "Balefire Dragon"
+        },
+        {
+            "qty": 1,
+            "name": "Old Gnawbone"
+        },
+        {
+            "qty": 1,
+            "name": "Astral Dragon"
+        },
+        {
+            "qty": 1,
+            "name": "Utvara Hellkite"
+        },
+        {
+            "qty": 1,
+            "name": "Cavern-Hoard Dragon"
+        }
+    ]
+}
