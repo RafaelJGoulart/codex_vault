@@ -2,7 +2,7 @@ import webview
 import json
 import os
 
-from deck_parser import parse_deck_list
+from services.deck_parser import parse_deck_list
 
 DECK_PATH = "data/decks"
 os.makedirs(DECK_PATH, exist_ok=True)
