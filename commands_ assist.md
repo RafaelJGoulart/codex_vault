@@ -42,3 +42,11 @@ cd codex_vault
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+
+#######################################################
+Empurrar para o git:
+git push -u origin main
+
+Puxar para o pc:
+git pull
