@@ -3,6 +3,7 @@ import json
 import os
 
 from services.deck_parser import parse_deck_list
+from services.card_folder import create_card_folder
 
 DECK_PATH = "data/decks"
 os.makedirs(DECK_PATH, exist_ok=True)
@@ -10,11 +11,12 @@ os.makedirs(DECK_PATH, exist_ok=True)
 class Api:
     def salvarDeck(self, deck):
 
+        comandante = parse_deck_list(deck["commander"])
         cartas = parse_deck_list(deck["list"])
 
         deck_json = {
             "name": deck["name"],
-            "commander": deck["commander"],
+            "commander": comandante,
             "cards": cartas
         }
 

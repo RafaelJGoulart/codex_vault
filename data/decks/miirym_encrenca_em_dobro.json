@@ -1,0 +1,616 @@
+{
+    "name": "Miirym encrenca em dobro",
+    "commander": [
+        {
+            "qty": 1,
+            "name": "Miirym, Sentinel Wyrm",
+            "set": "clb",
+            "collector_number": "284",
+            "has_set_data": true
+        }
+    ],
+    "cards": [
+        {
+            "qty": 1,
+            "name": "Acolyte of Bahamut",
+            "set": "clb",
+            "collector_number": "212",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Adrix and Nev, Twincasters",
+            "set": "mkc",
+            "collector_number": "198",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "An Offer You Can't Refuse",
+            "set": "fdn",
+            "collector_number": "160",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Arcane Signet",
+            "set": "fic",
+            "collector_number": "332",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Astral Dragon",
+            "set": "clb",
+            "collector_number": "613",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Atarka, World Render",
+            "set": "tdc",
+            "collector_number": "281",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Balefire Dragon",
+            "set": "cmm",
+            "collector_number": "207",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Birds of Paradise",
+            "set": "10e",
+            "collector_number": "252",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Bloom Tender",
+            "set": "ecl",
+            "collector_number": "166",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Bountiful Landscape",
+            "set": "mh3",
+            "collector_number": "217",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Breaching Dragonstorm",
+            "set": "tdm",
+            "collector_number": "101",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Breeding Pool",
+            "set": "gtc",
+            "collector_number": "240",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Cavern-Hoard Dragon",
+            "set": "ltc",
+            "collector_number": "31",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Chromatic Lantern",
+            "set": "40k",
+            "collector_number": "232",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Cinder Glade",
+            "set": "scd",
+            "collector_number": "295",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Colossal Majesty",
+            "set": "clu",
+            "collector_number": "160",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Command Tower",
+            "set": "tdc",
+            "collector_number": "107",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Commander's Sphere",
+            "set": "ecc",
+            "collector_number": "139",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Counterspell",
+            "set": "dsc",
+            "collector_number": "114",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Crucible of the Spirit Dragon",
+            "set": "afc",
+            "collector_number": "231",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Cultivate",
+            "set": "ecc",
+            "collector_number": "103",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Deceptive Frostkite",
+            "set": "tdc",
+            "collector_number": "19",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Doubling Season",
+            "set": "fdn",
+            "collector_number": "216",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Dragon Broodmother",
+            "set": "plst",
+            "collector_number": "ARB-53",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Dragon Tempest",
+            "set": "tdc",
+            "collector_number": "94",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Dragonborn Champion",
+            "set": "afc",
+            "collector_number": "45",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Dragonlord's Servant",
+            "set": "j25",
+            "collector_number": "538",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Dragonspeaker Shaman",
+            "set": "pw25",
+            "collector_number": "3",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Elvish Piper",
+            "set": "ltc",
+            "collector_number": "239",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Encroaching Dragonstorm",
+            "set": "tdm",
+            "collector_number": "142",
+            "has_set_data": true
+        },
+        {
+            "qty": 5,
+            "name": "Forest",
+            "set": "kld",
+            "collector_number": "262",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Frontier Bivouac",
+            "set": "ecc",
+            "collector_number": "150",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Frostcliff Siege",
+            "set": "ptdm",
+            "collector_number": "187p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Ganax, Astral Hunter",
+            "set": "clb",
+            "collector_number": "176",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Ghostly Flicker",
+            "set": "plst",
+            "collector_number": "KHC-39",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Goldspan Dragon",
+            "set": "m3c",
+            "collector_number": "212",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Gruul Signet",
+            "set": "clu",
+            "collector_number": "223",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Haven of the Spirit Dragon",
+            "set": "tdc",
+            "collector_number": "370",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Hellkite Charger",
+            "set": "arc",
+            "collector_number": "41",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Hinterland Harbor",
+            "set": "tdc",
+            "collector_number": "371",
+            "has_set_data": true
+        },
+        {
+            "qty": 5,
+            "name": "Island",
+            "set": "rtr",
+            "collector_number": "257",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Izzet Signet",
+            "set": "tdc",
+            "collector_number": "320",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Ketria Triome",
+            "set": "piko",
+            "collector_number": "250p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Klauth, Unrivaled Ancient",
+            "set": "afc",
+            "collector_number": "50",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Kodama's Reach",
+            "set": "ecc",
+            "collector_number": "113",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Lathliss, Dragon Queen",
+            "set": "fdn",
+            "collector_number": "627",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Life Finds a Way",
+            "set": "rex",
+            "collector_number": "5",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Lozhan, Dragons' Legacy",
+            "set": "clb",
+            "collector_number": "281",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Maelstrom of the Spirit Dragon",
+            "set": "ptdm",
+            "collector_number": "260p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Migration Path",
+            "set": "tdc",
+            "collector_number": "262",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Monster Manual / Zoological Study",
+            "set": "clb",
+            "collector_number": "242",
+            "has_set_data": true
+        },
+        {
+            "qty": 5,
+            "name": "Mountain",
+            "set": "rtr",
+            "collector_number": "265",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Myriad Landscape",
+            "set": "eoc",
+            "collector_number": "169",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Nature's Lore",
+            "set": "fic",
+            "collector_number": "311",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Negate",
+            "set": "ogw",
+            "collector_number": "59",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Niv-Mizzet, the Firemind",
+            "set": "c20",
+            "collector_number": "225",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Niv-Mizzet, Visionary",
+            "set": "pfdn",
+            "collector_number": "123p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Old Gnawbone",
+            "set": "afr",
+            "collector_number": "197",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Panharmonicon",
+            "set": "2x2",
+            "collector_number": "310",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Parallel Lives",
+            "set": "wot",
+            "collector_number": "58",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Rampant Growth",
+            "set": "tdc",
+            "collector_number": "265",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Reliquary Tower",
+            "set": "tdc",
+            "collector_number": "386",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Rhythm of the Wild",
+            "set": "rna",
+            "collector_number": "201",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Rogue's Passage",
+            "set": "ddm",
+            "collector_number": "77",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Rootbound Crag",
+            "set": "ecc",
+            "collector_number": "163",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Sarkhan, Soul Aflame",
+            "set": "tdc",
+            "collector_number": "301",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Sarkhan's Triumph",
+            "set": "dtk",
+            "collector_number": "154",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Scaled Nurturer",
+            "set": "clb",
+            "collector_number": "252",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Scourge of Valkas",
+            "set": "scd",
+            "collector_number": "157",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Secluded Courtyard",
+            "set": "fdn",
+            "collector_number": "267",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Simic Signet",
+            "set": "dsc",
+            "collector_number": "252",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Sol Ring",
+            "set": "dmc",
+            "collector_number": "190",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Steam Vents",
+            "set": "ecl",
+            "collector_number": "267",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Stomping Ground",
+            "set": "eoe",
+            "collector_number": "258",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Sulfur Falls",
+            "set": "drc",
+            "collector_number": "173",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Temple of the Dragon Queen",
+            "set": "tdc",
+            "collector_number": "104",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Temur Ascendancy",
+            "set": "tdc",
+            "collector_number": "305",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Temur Battlecrier",
+            "set": "ptdm",
+            "collector_number": "228p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Terror of the Peaks",
+            "set": "otj",
+            "collector_number": "149",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Thassa, Deep-Dwelling",
+            "set": "pthb",
+            "collector_number": "71p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Thrakkus the Butcher",
+            "set": "clb",
+            "collector_number": "295",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Three Tree City",
+            "set": "blb",
+            "collector_number": "260",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Twinflame Tyrant",
+            "set": "pfdn",
+            "collector_number": "97p",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Unclaimed Territory",
+            "set": "m3c",
+            "collector_number": "399",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Utvara Hellkite",
+            "set": "rvr",
+            "collector_number": "129",
+            "has_set_data": true
+        },
+        {
+            "qty": 1,
+            "name": "Worldly Tutor",
+            "set": "dmr",
+            "collector_number": "185",
+            "has_set_data": true
+        }
+    ]
+}
