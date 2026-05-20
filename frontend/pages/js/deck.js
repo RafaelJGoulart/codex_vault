@@ -1,6 +1,7 @@
 const btnNovoDeck = document.getElementById("btnNovoDeck");
 const modal = document.getElementById("modalDeck");
 const fechar = document.getElementById("fecharModal");
+const salvar = document.getElementById("save");
 
 btnNovoDeck.addEventListener("click", () => {
     modal.classList.remove("hidden");
@@ -12,18 +13,23 @@ fechar.addEventListener("click", () => {
 
 async function salvarDeck(){
 
-    const nome = document.getElementById("deckName").value
-    const commander = document.getElementById("deckCommander").value
-    const lista = document.getElementById("deckList").value
+    const nome = document.getElementById("deckName").value;
+    const commander = document.getElementById("deckCommander").value;
+    const lista = document.getElementById("deckList").value;
 
     const deck = {
-
         name: nome,
         commander: commander,
         list: lista
+    };
 
-    }
-
-    await window.pywebview.api.salvarDeck(deck)
-
+    await window.pywebview.api.salvarDeck(deck);
 }
+
+salvar.addEventListener("click", async () => {
+
+    await salvarDeck();
+
+    modal.classList.add("hidden");
+
+});
